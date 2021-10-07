@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Flutter and Machine Learning
+- 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with My Project App
 - 📫 How to reach me:
