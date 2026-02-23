@@ -13,11 +13,12 @@
 
 ## About Me
 
-I'm a developer with a passion for building clean mobile experiences and exploring machine learning. I work across the full stack — from designing in Figma to deploying data-driven applications.
+I'm a developer with a passion for building clean mobile and web experiences, and exploring machine learning. I work across the full stack — from designing in Figma to deploying data-driven applications.
 
-- 🔭 Currently working on **Flutter & Android** mobile apps
-- 🤖 Exploring **machine learning** with PyTorch & TensorFlow
-- ✍️ Writing about tech on [Medium](https://medium.com/fahrendrakhoirul)
+- 📱 Currently working on **Flutter & Android** mobile apps
+- 🌐 Exploring **web development** with React, TypeScript & Tailwind
+- 🤖 Diving into **machine learning** with PyTorch & TensorFlow
+- ✍️ Writing on [Medium](https://medium.com/fahrendrakhoirul) — tech, thoughts, and everything in between
 - 📫 Reach me via Medium or GitHub
 
 ---
