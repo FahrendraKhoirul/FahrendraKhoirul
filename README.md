@@ -7,9 +7,9 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/fahrendrakhoirul)
 [![GitHub followers](https://img.shields.io/github/followers/fahrendrakhoirul?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=30363d)](https://github.com/fahrendrakhoirul)
 
-</div>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrendrakhoirul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="160"/>
+
+</div>
 
 ---
 
