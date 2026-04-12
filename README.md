@@ -2,7 +2,7 @@
 
 # Fahrendra Khoirul
 
-**Mobile & Full-Stack Developer · ML Enthusiast**
+**Mobile & Full-Stack Developer · AI & Data**
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/fahrendrakhoirul)
 [![GitHub followers](https://img.shields.io/github/followers/fahrendrakhoirul?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=30363d)](https://github.com/fahrendrakhoirul)
