@@ -1,5 +1,5 @@
 <div align="center">
- asd
+
 # Fahrendra Khoirul
 
 **Mobile & Full-Stack Developer · AI & Data**
