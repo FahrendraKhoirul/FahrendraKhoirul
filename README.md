@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fahrendra Khoirul Ihtada
+# Fahrendra Khoirul
 
 **Mobile & Full-Stack Developer · AI & Data**
 
