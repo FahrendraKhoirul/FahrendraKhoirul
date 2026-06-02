@@ -7,7 +7,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/fahrendrakhoirul)
 [![GitHub followers](https://img.shields.io/github/followers/fahrendrakhoirul?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=30363d)](https://github.com/fahrendrakhoirul)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrendrakhoirul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrendrakhoirul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Git[...]
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a developer who like piano so much, with a passion for building clean mobile and web experiences, and exploring machine learning. I work across the full stack — from designing in Figma to deployment.
+I'm a developer who like piano so much, with a passion for building clean mobile and web experiences, and exploring machine learning. I work across the full stack — from designing in Figma to de[...]
 
 - 📱 Currently working on **Flutter & Android** mobile apps
 - 🌐 Exploring **web development** with React, TypeScript & Tailwind
@@ -36,6 +36,7 @@ I'm a developer who like piano so much, with a passion for building clean mobile
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
 **Backend & Database**
 
