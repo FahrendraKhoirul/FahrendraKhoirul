@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a developer who like piano so much, with a passion for building clean mobile and web experiences, and exploring machine learning. I work across the full stack — from designing in Figma to de[...]
+I'm a developer who like piano so much, with a passion for building clean mobile and web experiences, and exploring machine learning. I work across the full stack — from designing in Figma to deployment.
 
 - 📱 Currently working on **Flutter & Android** mobile apps
 - 🌐 Exploring **web development** with React, TypeScript & Tailwind
