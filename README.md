@@ -7,7 +7,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/fahrendrakhoirul)
 [![GitHub followers](https://img.shields.io/github/followers/fahrendrakhoirul?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=30363d)](https://github.com/fahrendrakhoirul)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrendrakhoirul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrendrakhoirul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats">
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a developer who like piano so much, with a passion for building clean mobile and web experiences, and exploring machine learning. I work across the full stack — from designing in Figma to deploying data-driven applications.
+I'm a developer who like piano so much, with a passion for building clean mobile and web experiences, and exploring machine learning. I work across the full stack — from designing in Figma to deployment.
 
 - 📱 Currently working on **Flutter & Android** mobile apps
 - 🌐 Exploring **web development** with React, TypeScript & Tailwind
@@ -59,6 +59,7 @@ I'm a developer who like piano so much, with a passion for building clean mobile
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F8FF?style=flat-square&logo=fastlane&logoColor=black)
 
 ---
 
