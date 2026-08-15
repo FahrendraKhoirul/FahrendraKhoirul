@@ -20,7 +20,7 @@ I'm a developer who like piano so much, with a passion for building clean mobile
 - 📱 Currently working on **Flutter & Android** mobile apps
 - 🌐 Exploring **web development** with React, TypeScript & Tailwind
 - 🤖 Diving into **machine learning** with PyTorch & TensorFlow
-- ✍️ Writing on [Medium](https://medium.com/fahrendrakhoirul) — tech, thoughts, and everything in between
+- ✍️ Writing on [Medium](https://medium.com/@fahrendra.khoirul) — tech, thoughts, and everything in between
 - 📫 Reach me via Medium or GitHub
 
 ---
