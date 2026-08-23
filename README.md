@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fahrendra Khoirul 
+# Fahrendra Khoirul Ihtada
 
 > ### 🎹 Engineer who like piano so much
 
