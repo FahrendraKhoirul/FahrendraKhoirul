@@ -9,7 +9,13 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/fahrendrakhoirul)
 [![GitHub followers](https://img.shields.io/github/followers/fahrendrakhoirul?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=30363d)](https://github.com/fahrendrakhoirul)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrendrakhoirul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrendrakhoirul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
+
+<div style="width: 200px; margin: 20px auto;">
+
+[![My GitFut card](https://gitfut.com/fahrendrakhoirul.png)](https://gitfut.com/fahrendrakhoirul)
+
+</div>
 
 </div>
 
@@ -17,7 +23,7 @@
 
 ## About Me
 
-I'm a developer who like piano so much, with a passion for building clean mobile and web experiences, and exploring machine learning. I work across the full stack — from designing in Figma to deployment.
+I'm a developer who like piano so much, with a passion for building clean mobile and web experiences, and exploring machine learning. I work across the full stack — from designing in Figma to de[...]
 
 - 📱 Currently working on **Flutter & Android** mobile apps
 - 🌐 Exploring **web development** with React, TypeScript & Tailwind
