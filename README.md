@@ -11,7 +11,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrendrakhoirul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
 
-<div style="width: 200px; margin: 20px auto;">
+<div style="display: flex; justify-content: center; margin: 20px 0;">
 
 [![My GitFut card](https://gitfut.com/fahrendrakhoirul.png)](https://gitfut.com/fahrendrakhoirul)
 
